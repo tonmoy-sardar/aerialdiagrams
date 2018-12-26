@@ -1,0 +1,13 @@
+[0.00000] [Warning] Currently the GD graphics library is used for resizing images on this server. When large product images are uploaded, this could lead to crashes due to the lack of memory. We recommend installing ImageMagick instead for better performance and better product thumbnails.
+[0.00000] [Error] MySQL database name can contain only Latin characters, numbers, and underscores
+[2.91100] [Warning] Currently the GD graphics library is used for resizing images on this server. When large product images are uploaded, this could lead to crashes due to the lack of memory. We recommend installing ImageMagick instead for better performance and better product thumbnails.
+[0.00000] [Warning] Currently the GD graphics library is used for resizing images on this server. When large product images are uploaded, this could lead to crashes due to the lack of memory. We recommend installing ImageMagick instead for better performance and better product thumbnails.
+[0.86900] [Notice] Creating database scheme
+[6.29440] [Notice] Importing data
+[6.95041] [Notice] Creating demo
+[7.82959] [Notice] Installing additional language en
+[8.22559] [Notice] Installing additional language en
+[9.68409] [Notice] Installing additional language de
+[10.23608] [Notice] Installing additional language de
+[11.74808] [Notice] Installing additional language fr
+[12.22309] [Notice] Installing additional language fr
